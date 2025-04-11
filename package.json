@@ -9,6 +9,8 @@
   "author": "Bruno Marasi, Salvdor Soncini",
   "license": "ISC",
   "dependencies": {
-    "express": "^5.1.0"
-  }
+    "express": "^5.1.0",
+    "nodemon": "^3.1.9"
+  },
+  "type": "module"
 }
