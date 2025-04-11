@@ -5,7 +5,7 @@ const port = 3000
 
 const usuario = {
     nombre: "Ana",
-    edad: 25
+    edad: "42"
 }
 const materias = [
     {
